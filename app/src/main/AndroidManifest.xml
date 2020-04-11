@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".michaelloria"></activity>
+        <activity android:name=".dungthaibranch"></activity>
+        <activity android:name=".michaelloria" />
         <activity android:name=".ainguyen" />
         <activity android:name=".dungthai" />
         <activity android:name=".MainActivity">
